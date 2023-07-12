@@ -1,5 +1,3 @@
-// AIzaSyB2rSDWXeIpkmrR9fHwNyrZ0-Yj_7GG08c
-
 const { DiscussServiceClient } = require("@google-ai/generativelanguage");
 const { GoogleAuth } = require("google-auth-library");
 
